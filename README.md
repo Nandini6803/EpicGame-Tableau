@@ -47,7 +47,6 @@ The "Video_Games" dataset includes the following key columns:
 
 10. **Pie Chart**: Illustrated the percentage of games by Age Rating.
 
-11. **KPI Cards**: Displayed key performance indicators for total sales, sales by region, average critic score, and average user score.
 
 
 
